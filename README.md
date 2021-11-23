@@ -44,8 +44,9 @@ Once that's clear, let's start. You will need:
   - Linux: choose your own. I go with *Terminator*.
   - MacOS: choose your own. I go with *iTerm*.
 - Node and NPM. You can see the instructions on how to get this [here](https://lmgtfy.com/?q=install%20nodejs)
-- GIT. This is optional as you can do the tutorial from beginning to the end without know what the git is GIT.
+- GIT. This is optional as you can do the tutorial from beginning to the end without know what-the-git is GIT.
   - I might include an optional chapter at the end.
+  - Or maybe you can follow [this tutorial](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) to start with:
 
 ### Let's get started
 
