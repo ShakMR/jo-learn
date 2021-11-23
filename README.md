@@ -1,4 +1,4 @@
-# Tutor, learn to code or not
+# jo-learn [ʒɔ́-lɜːn], learn to code or not
 
 This Repo is the first try in creating a tutorial as introduction to programming.
 The idea is to talk about the basics and do a small programming project just with the basics any procedural/scripting
