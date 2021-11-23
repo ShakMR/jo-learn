@@ -1,0 +1,13 @@
+{
+  "name": "tutor",
+  "version": "1.0.0",
+  "description": "Repository to host intro to programming class",
+  "author": "ShakMR",
+  "license": "MIT",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  },
+  "scripts": {
+    "build:readme": "cd support; node createCourseIndex.js"
+  }
+}
