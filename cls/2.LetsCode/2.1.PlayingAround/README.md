@@ -37,6 +37,23 @@ calculate the square root... this is a bit less obvious, although it's similar i
 languages `Math.sqrt`
 
 ```js
-2 ** 3
-Math.sqrt(4)
+2 ** 3 // power
+Math.sqrt(4) // square root
+2 % 3 // module
 ```
+
+## Operations with different types
+
+The previous operations where the basic maths operations. They work almost the same in
+most languages (at least the basic `+ - * /` ). This operations also work with different
+data types. For example
+
+```js
+"Hello " + "World"
+"Hello " - "World"
+```
+
+If you try those two you will see, maybe, some surprising results. The first line `"Hello " + "World"`
+concatenates the two strings. Obviously you cannot sum two strings. The second line tho
+gives a NaN (Not a Number). This is the common way of saying "Hey this operation isn't 
+returning a number and I expected that. What happens if you divide by 0.?
